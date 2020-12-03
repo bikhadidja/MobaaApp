@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427723840875",
+    "project_id": "mobaapdemo",
+    "storage_bucket": "mobaapdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427723840875:android:9f3c439f685913b560802e",
+        "android_client_info": {
+          "package_name": "com.example.mobaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427723840875-98167ctgtkn1ful7f1asdiee655sma11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS7ko8O0frSfCT88apWn5UaBR4ivpf4GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427723840875-98167ctgtkn1ful7f1asdiee655sma11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
